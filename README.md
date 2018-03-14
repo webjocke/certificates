@@ -1,4 +1,4 @@
-# certificates
+# My Suuper Big Collection of Certificates
 This is a collection (or just one :P) of the certificates I got.
 
 # Files
